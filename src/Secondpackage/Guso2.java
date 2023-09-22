@@ -1,6 +1,6 @@
 package Secondpackage;
 
-public class Guso 
+public class Guso2 
 {
 
 	public static void main(String[] args)
